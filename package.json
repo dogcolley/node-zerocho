@@ -1,0 +1,19 @@
+{
+  "name": "dogcolley_zc",
+  "version": "1.0.0",
+  "description": "zerocho's book content use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogcolley/node-zerocho.git"
+  },
+  "author": "dogcolley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dogcolley/node-zerocho/issues"
+  },
+  "homepage": "https://github.com/dogcolley/node-zerocho#readme"
+}
