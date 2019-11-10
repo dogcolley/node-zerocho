@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dogcolley/node-zerocho/issues"
   },
-  "homepage": "https://github.com/dogcolley/node-zerocho#readme"
+  "homepage": "https://github.com/dogcolley/node-zerocho#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
