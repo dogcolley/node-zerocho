@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "fmusknst7477",
+    "database": "nodebird",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "fmusknst7477",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "fmusknst7477",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
